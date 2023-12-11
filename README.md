@@ -16,14 +16,15 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
+![Screenshot 2023-12-11 154446](https://github.com/KesavDeepak/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139336019/f602c05a-104f-451e-944c-51a9d98049a5)
+![Screenshot 2023-12-11 154456](https://github.com/KesavDeepak/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139336019/a9834fa2-189f-4b9a-bf12-ddf2ffa4a9e8)
+![Screenshot 2023-12-11 154510](https://github.com/KesavDeepak/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139336019/2426151e-3d16-44a9-af88-873e9285ca50)
+![Screenshot 2023-12-11 154520](https://github.com/KesavDeepak/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139336019/e27a217e-049c-4315-86a8-b1daa295b9d1)
+![Screenshot 2023-12-11 154532](https://github.com/KesavDeepak/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139336019/069ac957-86cd-4709-8579-f83f66400ee3)
+![Screenshot 2023-12-11 154541](https://github.com/KesavDeepak/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139336019/bdc552c9-f3be-4e81-87f1-8decf03436ef)
 
-## Output:
-
-### Name:
-### Register Number:
+### Name:KESAV DEEPAK SRIDHARAN
+### Register Number: 23002011
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
